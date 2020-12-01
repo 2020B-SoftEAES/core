@@ -1,0 +1,2 @@
+# core
+EPN. Trabajo colaborativo
